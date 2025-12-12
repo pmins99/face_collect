@@ -1,3 +1,6 @@
 1. red
 2. magenta
 3. beige
+4. Rose-red
+5. Grenn
+6. Skyblue
